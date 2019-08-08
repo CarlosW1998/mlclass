@@ -5,13 +5,20 @@
 ## Installation
 
 PLE requires the following dependencies:
+* python>=3.6
 * numpy
 * pygame
 * pillow
 
 Install with pip
 
+Windowns
 ```bash
 
-pip install -R requirements.txt
+pip install -r requirements.txt
+```
+Linux
+```bash
+
+pip3 install -r requirements.txt
 ```
